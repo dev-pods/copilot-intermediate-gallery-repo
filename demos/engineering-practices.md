@@ -102,8 +102,7 @@ O GitHub.com oferece ferramentas adicionais para gerenciar o Copilot no nível o
    ```markdown
    Quais são as vantagens da linguagem de programação Go?
    ```
-3. **Compartilhe a conversa:** Clique no botão **"Share"** no canto superior direito da janela do chat
-4. **Selecione compartilhar:** Selecione share e copie o link para compartilhar com sua equipe
+3. **Compartilhe a conversa:** Copie o link na sessão do agent
 
 #### Visualizar Conversa Compartilhada
 1. **Navegue até o GitHub Copilot:** Acesse [https://github.com/copilot](https://github.com/copilot)

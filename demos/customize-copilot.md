@@ -140,7 +140,7 @@ Servidores Model Context Protocol (MCP) permitem estender as capacidades do GitH
 
 Instruções personalizadas permitem moldar o comportamento do GitHub Copilot para corresponder ao estilo de codificação, boas práticas e convenções de projeto da sua equipe. Com instruções personalizadas, o Copilot pode automaticamente seguir seus padrões preferidos, usar suas convenções de nomenclatura e até se adaptar ao seu workflow. Vamos ver quais são as instruções personalizadas deste repo:
 
-1. Vá até `.github/custom-instructions.md`
+1. Vá até `.github/copilot-instructions.md`
 2. Examine o arquivo. Você notou que as sugestões de código foram baseadas neste arquivo?
 
 Agora vamos gerar uma com a ajuda do GitHub Copilot.
