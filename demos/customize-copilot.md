@@ -110,14 +110,12 @@ Ajude-me a criar arquivos de prompt para gerar testes unitários de componentes 
 
 ## 🎭 Passo 4: Utilize Custom Agents
 
-1. Examine o arquivo `plan.agent.md` na pasta `.github/agents`. Ele está vazio.
-2. Abra https://github.com/github/awesome-copilot/blob/main/agents/plan.agent.md. Copie o "code" dele.
-2. Vá para o GitHub Copilot Chat
-3. Altere o modo para o modo "Plan"
-4. Adicione o prompt abaixo e examine a sugestão
+1. Examine o arquivo `plan.agent.md` na pasta `.github/agents`. 
+2. Altere o modo para o modo "Plan"
+3. Adicione o prompt abaixo e examine a sugestão
 
 ```markdown
-help me plan out a new page for creating new galleries
+ajude-me a planejar uma nova página para criar novas galerias
 ```
 **DISCUSSÃO**
 Examine a resposta. Que outros modos seriam úteis para este repo?
@@ -143,7 +141,7 @@ Instruções personalizadas permitem moldar o comportamento do GitHub Copilot pa
 1. Vá até `.github/copilot-instructions.md`
 2. Examine o arquivo. Você notou que as sugestões de código foram baseadas neste arquivo?
 
-Agora vamos gerar uma com a ajuda do GitHub Copilot.
+Agora vamos gerar um custom-instructions.md com a ajuda do GitHub Copilot.
 
 1. Vá para o Copilot Chat
 2. Selecione o ícone de engrenagem no canto superior direito

@@ -22,9 +22,9 @@ Ao final desta demo, você será capaz de:
 
 ### Opção do Grupo A: Análise de Segurança & Hardening
 
-1. Digite o nome `Photo Gallery - Security Assessment`
+1. Digite o nome `Galeria de Fotos & Portfólio`
 2. Selecione o proprietário `Username` OU `OrgName`
-3. Adicione a descrição `Implement security best practices for the photo gallery application`
+3. Adicione a descrição `Implemente as melhores práticas de segurança para o aplicativo de fotos.`
 4. Selecione `Save`
 
 **Adicionando instruções**
